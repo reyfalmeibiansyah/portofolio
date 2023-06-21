@@ -36,7 +36,7 @@ $conn = mysqli_connect("localhost", "root", "", "db_login");
 
     <div class="position-absolute top-50 start-50 translate-middle">
         <form action="" method="post" enctype="multipart/form-data">
-            <div class="card" style="width: 25rem;">
+            <div class="card" style="width: 20rem;">
             <div class="card-body">
                 <h5 class="card-title">Update data</h5>
                 <p class="card-text">

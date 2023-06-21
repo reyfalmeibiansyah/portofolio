@@ -53,7 +53,7 @@ session_start();
 
 
 <div class="position-absolute top-50 start-50 translate-middle">
-    <div class="card bg" style="width: 35rem;">
+    <div class="card bg" style="width: 20rem;">
     <div class="card-body">
         
         <div style="font-family, cursive; text-align: center;">
